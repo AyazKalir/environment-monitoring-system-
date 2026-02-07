@@ -1,3 +1,5 @@
+This project is created to learn how hardware and software work together.
+
 # Environment Monitoring System
 
 This project is a beginner-level embedded system created to understand how hardware and software work together in real life.
